@@ -1,0 +1,5 @@
+n = int(input())
+sonlar = list(map(int, input().split()))
+k = int(input())
+yaqin_son = min(sonlar, key = lambda x: (abs(x - k), x))
+print(yaqin_son)

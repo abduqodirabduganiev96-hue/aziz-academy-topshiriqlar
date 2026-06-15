@@ -1,0 +1,5 @@
+n = int(input())
+lst = list(map(int, input().split()))
+oxirgi_element = lst.pop()
+print(oxirgi_element)
+print(lst)

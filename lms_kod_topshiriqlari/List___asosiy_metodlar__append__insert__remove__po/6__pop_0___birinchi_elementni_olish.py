@@ -1,0 +1,5 @@
+n = int(input())
+lst = list(map(int, input().split()))
+birinchi_element = lst.pop(0)
+print(birinchi_element)
+print(lst)

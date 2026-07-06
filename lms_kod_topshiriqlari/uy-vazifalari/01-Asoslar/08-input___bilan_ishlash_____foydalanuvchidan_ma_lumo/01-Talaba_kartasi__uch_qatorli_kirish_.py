@@ -1,0 +1,7 @@
+n = input()
+m = input()
+b = input()
+print("=== TALABA ===")
+print(f"Ism: {n}")
+print(f"Familiya: {m}")
+print(f"Kurs: {b}")

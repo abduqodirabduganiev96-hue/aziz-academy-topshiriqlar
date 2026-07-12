@@ -1,0 +1,5 @@
+m = input()
+s = input()
+almashtirlgan_matn = m.replace(s, s.upper())
+print(almashtirlgan_matn)
+print(m.count(s))

@@ -1,0 +1,7 @@
+i1 = input()
+y1 = input()
+i2 = input()
+y2 = input()
+print("Ism\tYosh")
+print(i1 + "\t" + y1)
+print(i2 + "\t" + y2)

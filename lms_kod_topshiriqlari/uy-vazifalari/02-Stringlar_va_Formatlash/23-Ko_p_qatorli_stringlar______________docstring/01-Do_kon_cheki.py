@@ -1,0 +1,10 @@
+nomi = input()
+narxi = int(input())
+soni = int(input())
+jami = narxi * soni
+print("===== CHEK =====")
+print(f"Mahsulot: {nomi}")
+print(F"Narx: {narxi}")
+print(F"Soni: {soni}")
+print(f"Jami: {jami}")
+print("================")

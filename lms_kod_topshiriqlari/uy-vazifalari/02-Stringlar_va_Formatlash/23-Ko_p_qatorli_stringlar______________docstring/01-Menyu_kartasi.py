@@ -1,0 +1,7 @@
+m1 = input()
+m2 = input()
+m3 = input()
+print("--- MENYU ---")
+print(f"1. {m1}")
+print(f"2. {m2}")
+print(f"3. {m3}")

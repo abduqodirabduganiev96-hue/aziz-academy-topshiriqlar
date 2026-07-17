@@ -1,4 +1,4 @@
-# 🎓 Aziz Academy — ABDUGANIYEV ABDUQODIR
+# 🎓 Aziz Academy — Abduganiyev Abduqodir
 
 **Kurs:** Dasturlash / IT
 
@@ -6,8 +6,8 @@
 
 `░░░░░░░░░░░░░░░░░░░░` **2%**  (3/179 mavzu)
 
-- ⭐ Jami ball: **29684**
-- 📤 GitHubga yuborilgan topshiriqlar: **622**
+- ⭐ Jami ball: **30326**
+- 📤 GitHubga yuborilgan topshiriqlar: **623**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
@@ -63,4 +63,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-07-13 12:55</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-07-17 10:40</sub>
